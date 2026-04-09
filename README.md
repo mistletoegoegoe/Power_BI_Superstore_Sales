@@ -29,7 +29,7 @@ This step focuses on analyzing business requirements, clarifying stakeholder nee
 
 **c. Understanding dataset**
 
-<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/f911bc2a-bf2e-4ca4-b356-5786777f64cd" />
+<img width="365" height="415" alt="image" src="https://github.com/user-attachments/assets/ddde951b-fb1d-46ea-ba89-05fc02a0dd5b" />
 
 
 
