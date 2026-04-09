@@ -16,11 +16,20 @@ Superstore is a global retail company experiencing strong growth across multiple
 This project applies the 5-step Design Thinking framework to deeply understand Sales Manager's needs behind the business questions, and to deliver a highly relevant dashboard that effectively supports decision-making.
 
 ### 1. Empathise 
+This step focuses on analyzing business requirements, clarifying stakeholder needs using the 5W1H framework, and developing a clear understanding of the dataset.
+
+a. Analysing business problem
+
+
 <img width="900" height="310" alt="image" src="https://github.com/user-attachments/assets/a93bf2db-8be9-44bb-959f-b85de72604a0" />
+
+b. Analysing stakeholders
 
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3ac0c663-e109-4b88-a048-864ffbedc642" />
 
+
+c. Understanding dataset
 
 <img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/f911bc2a-bf2e-4ca4-b356-5786777f64cd" />
 
