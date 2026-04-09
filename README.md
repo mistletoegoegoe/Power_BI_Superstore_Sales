@@ -83,6 +83,36 @@ This step focuses on designing the dashboard layout and continuously reviewing a
 - Overall performance is solid, but there are early signs of efficiency challenges that should be monitored.
 
 
+## 2. Market expansion analysis
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/fb69c8ca-6595-464b-840a-f4b6ef8c8433" />
+
+
+**Key takeaways:** Focus investment on APAC, EU, and US; maintain current spend in lower-profit markets (Canada, Africa, EMEA).
+- APAC is the "Powerhouse": It leads in both Total Sales ($1.0M+) and Total Profit (~$140k). it maintains the highest customer volume while contributing to a total profit that is up 23.9% over last year.
+- EMEA is the "Rising Star": While smaller in total volume, it is the fastest-growing market YoY. The growth is explosive at nearly 50% YoY, making it the most high-potential target
+- EU vs. US Efficiency: The EU is more profitable relative to its size, whereas the US has the highest-selling single country.
+- The Return Rate Trade-off: The EU has the highest return rate at 6.5%, while APAC maintains high volume with a lower rate.
+LATAM Stagnation: Unlike the surging EMEA, LATAM has the lowest sales growth YoY. This market is currently the "laggard," showing the weakest growth trajectory on the chart, suggesting we should pause expansion here.
+
+
+## 3. Strategic product analysis
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/fcff3136-0cc2-44a8-bb07-e037939d21ea" />
+
+**Key takeaways:** PRIORITISE PHONES, COPIERS, BOOKCASES AND "HERO" PRODUCTS
+- Strategic Product: Phones, Copiers, Bookcases
+- The Global Anchor: Phones (specifically Apple Smart Phone):
+           - Strategic Value: Phones are your highest revenue sub-category (~$0.6M) and sit in the "High Potential" quadrant.
+           - Target Market: EMEA. While APAC is your biggest market, EMEA is growing at nearly 50% YoY. Use the Apple Smart Phone here, as it is your most "market-agnostic" product with proven success across EU, APAC, and LATAM.
+- The Efficiency Champion: Copiers
+           - Strategic Value: Copiers generate nearly as much profit as Phones but with significantly lower sales volume and fewer orders.
+           - Target Market: EU. The EU market is already highly efficient with a high Average Order Value (AOV). Expanding Copiers here maximizes profit without the logistical strain of high-volume/low-value items.
+           - The Regional Specialist: Cisco Smart Phone
+           - Strategic Value: This is a top-tier performer in developing regions.
+           - Target Market: LATAM.
+           - Cisco leads Motorola in this region ($8,175 vs $5,487). Focus on Cisco to capture the remaining smartphone market share in LATAM where growth has recently slowed.
+
+
+
 
 
 ## 4. Recommendations
