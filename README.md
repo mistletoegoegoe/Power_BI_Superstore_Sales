@@ -37,13 +37,41 @@ This step focuses on analyzing business requirements, clarifying stakeholder nee
 
 The Define step identifies the core problem, defines key metrics such as the **North Star Metric**, and establishes the **Point of View**.
 
+
+
+
+           
+
 **a. Identify North Star Metric and Point of Views**
 
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/01cfc04f-9e53-43e1-aeb5-7619d377839c" />
+<img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/adbe17e6-5d60-4bd9-b75d-8da5678ee42d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **b. Clarify Growth Formulas**
+
+
+
+
+
+
+
+
+
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d51a34f4-a758-478e-af2e-fde901bd4c03" />
 
 
