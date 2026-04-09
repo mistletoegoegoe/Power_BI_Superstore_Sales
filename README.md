@@ -49,26 +49,7 @@ The Define step identifies the core problem, defines key metrics such as the **N
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **b. Clarify Growth Formulas**
-
-
-
-
-
-
 
 
 
@@ -84,51 +65,8 @@ This step leverages the growth formula breakdown of each perspective to brainsto
 ### 4. Prototype and review
 This step focuses on designing the dashboard layout and continuously reviewing and iterating it to ensure it aligns with stakeholders’ needs and clearly answers business questions.
 
-## 3. Data dictionary
-There are 3 data tables: 
-- Orders: it was the fact table that contained all relevant information about each order_ID. It comprised time-related attributes, customer's information, market area, product details
-- People: it contained name of salemen and the region that they were in charge of. 
-- Returns: this table recorded the data about returned orders
-### Table Orders
-| Field          | Meaning                               |
-|----------------|---------------------------------------|
-| Order ID       | Unique ID of each order               |
-| Order Date     | The date that order had been made     |
-| Ship Date      | The date that order had been shipped  |
-| Ship Mode      | The type of shipment                  |
-| Customer ID    | Unique ID of customer                 |
-| Customer Name  | Name of customer                      |
-| Segment        | Customer segmentation                 |
-| City           | City where order had been made        |
-| State          | State where order had been made       |
-| Country        | Country where order had been made     |
-| Postal Code    | Postal code where order had been made |
-| Market         | Market area of the order              |
-| Region         | Region of order                       |
-| Product ID     | Product unique ID in the order        |
-| Category       | Category of product                   |
-| Sub-Category   | Sub-category of product               |
-| Product Name   | Product name                          |
-| Sales          | Total revenue of order                |
-| Quantity       | Total quantity of products in order   |
-| Discount       | % discount for the order              |
-| Profit         | Profit of the order                   |
-| Shipping Cost  | Shipping cost for the order           |
-| Order Priority | The level of priority                 |
 
-### Table People
-| Field  | Meaning                            |
-|--------|------------------------------------|
-| Person | The saleman who was in charge of   |
-| Region | The region he/she was in charge of |
-
-### Table Returns
-| Field    | Meaning                               |
-|----------|---------------------------------------|
-| Returned | Yes/no - the status of returned order |
-| Order ID | Unique ID of the order                |
-| Market   | The market that had returned order    |
-# II. Data visualisation
+# III. Data visualisation
 ## 1. DAX
 By the given data, there is no available Sales per order metric, which was necessary to provide an overview about Sales situation. Thus, a measure was created to calculate this indicator. The calculation would be implemented in DAX.
 ### Sales per order formula:
