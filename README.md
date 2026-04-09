@@ -1,5 +1,5 @@
-# Project 2: Power_BI_Superstore_Sales
-![image](https://github.com/user-attachments/assets/a2d167e4-da67-41d9-9f5b-cb7e147a453b)
+# Power BI Project: Business performance, market expansion & choosing strategic products analysis
+
 
 # I. Introduction
 ## 1. Business requirements
