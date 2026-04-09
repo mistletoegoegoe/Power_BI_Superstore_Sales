@@ -7,7 +7,7 @@
 - Which markets show the highest potential for expansion?
 - Which categories, sub-categories, or products should be prioritized for investment?
 
-=> The company is currently prioritizing **growth** as its main strategy.
+=> The company is currently prioritizing **GROWTH** as its main strategy.
 
 ### Company context: 
 Superstore is a global retail company experiencing strong growth across multiple markets. The **Senior Sales Manager** wants an overview to identify which markets have the highest potential for expansion, as well as which products should be prioritized for strategic planning.
