@@ -13,10 +13,10 @@
 Superstore is a global retail company experiencing strong growth across multiple markets. The **Senior Sales Manager** wants an overview to identify which markets have the highest potential for expansion, as well as which products should be prioritized for strategic planning.
 
 ## II. Design thinking process
-This project applies the 6-step Design Thinking framework to deeply understand Sales Manager's needs behind the business questions, and to deliver a highly relevant dashboard that effectively supports decision-making.
+This project applies the 5-step Design Thinking framework to deeply understand Sales Manager's needs behind the business questions, and to deliver a highly relevant dashboard that effectively supports decision-making.
 
-### 1. Empathise
-<img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/2a1604c6-fd0e-41aa-9ae2-5fa3da12bfe2">
+### 1. Empathise 
+<img width="746" height="286" alt="image" src="https://github.com/user-attachments/assets/a93bf2db-8be9-44bb-959f-b85de72604a0" />
 
 ### 2.2 Define
 <img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/8a408a6f-2f37-496c-82fd-5d3af06ba738">
