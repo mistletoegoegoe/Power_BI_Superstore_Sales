@@ -22,19 +22,24 @@ This step focuses on analyzing business requirements, clarifying stakeholder nee
 
 **a. Analysing business problem**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc172f2b-cccf-430d-9d9b-af25d003cc77" />
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/a197b5f4-4709-4bc5-9ec9-abdf02dd3280" />
+
 
 **b. Analysing stakeholders**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65756828-e42c-4c81-9ff3-309db2f8360f" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/cc172f2b-cccf-430d-9d9b-af25d003cc77" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e402c4-57ad-40b3-83ae-29e931239d5b" />
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/65756828-e42c-4c81-9ff3-309db2f8360f" />
+
 
 
 
 **c. Understanding dataset**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4e80364-f78d-4c63-9430-d2e33f6a3a20" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/55e402c4-57ad-40b3-83ae-29e931239d5b" />
+
 
 
 
@@ -46,11 +51,15 @@ The Define step identifies the core problem, defines key metrics such as the **N
 
 **a. Identify North Star Metric and Point of Views**
 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b4e80364-f78d-4c63-9430-d2e33f6a3a20" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dac6144-e550-43ba-b8ff-b8bc255e861e" />
+
 
 **b. Identify Key perspectives & Points of views**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8dbff8-0407-41fb-abf3-c9e7fa75d9a1" />
+
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3dac6144-e550-43ba-b8ff-b8bc255e861e" />
+
 
 
 
@@ -59,14 +68,14 @@ The Define step identifies the core problem, defines key metrics such as the **N
 **c. Clarify Growth Formulas**
 
 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/fb8dbff8-0407-41fb-abf3-c9e7fa75d9a1" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/181cf91c-4b8a-460c-beb8-1159e041d2af" />
 
 
 ### 3. Ideate
 This step leverages the growth formula breakdown of each perspective to brainstorm relevant insights across multiple dimensions of the North Star Metric.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc83d6ab-de63-42f8-8910-fea2fe7e2d06" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/cc83d6ab-de63-42f8-8910-fea2fe7e2d06" />
 
 
 ### 4. Prototype and review
