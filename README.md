@@ -16,20 +16,25 @@ Superstore is a global retail company experiencing strong growth across multiple
 This project applies the 5-step Design Thinking framework to deeply understand Sales Manager's needs behind the business questions, and to deliver a highly relevant dashboard that effectively supports decision-making.
 
 ### 1. Empathise 
+
+
 This step focuses on analyzing business requirements, clarifying stakeholder needs using the 5W1H framework, and developing a clear understanding of the dataset.
 
 **a. Analysing business problem**
 
-<img width="900" height="342" alt="image" src="https://github.com/user-attachments/assets/8a6134a0-5136-45df-a5f6-710b3a8c373e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc172f2b-cccf-430d-9d9b-af25d003cc77" />
 
 **b. Analysing stakeholders**
 
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/65192583-b6c8-4b65-9e5c-7215e256ef7a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65756828-e42c-4c81-9ff3-309db2f8360f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e402c4-57ad-40b3-83ae-29e931239d5b" />
+
 
 
 **c. Understanding dataset**
 
-<img width="365" height="415" alt="image" src="https://github.com/user-attachments/assets/ddde951b-fb1d-46ea-ba89-05fc02a0dd5b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4e80364-f78d-4c63-9430-d2e33f6a3a20" />
 
 
 
@@ -39,27 +44,29 @@ The Define step identifies the core problem, defines key metrics such as the **N
 
 
 
-
-           
-
 **a. Identify North Star Metric and Point of Views**
 
 
-<img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/adbe17e6-5d60-4bd9-b75d-8da5678ee42d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3dac6144-e550-43ba-b8ff-b8bc255e861e" />
+
+**b. Identify Key perspectives & Points of views**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb8dbff8-0407-41fb-abf3-c9e7fa75d9a1" />
 
 
 
-**b. Clarify Growth Formulas**
+
+
+**c. Clarify Growth Formulas**
 
 
 
-<img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/0daadbb5-06a3-43a5-b8a2-49f8d1ce0f97" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/181cf91c-4b8a-460c-beb8-1159e041d2af" />
 
 
 ### 3. Ideate
 This step leverages the growth formula breakdown of each perspective to brainstorm relevant insights across multiple dimensions of the North Star Metric.
 
-<img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/8a5db52e-249a-44a1-8980-37acc0bdbae0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc83d6ab-de63-42f8-8910-fea2fe7e2d06" />
 
 
 ### 4. Prototype and review
