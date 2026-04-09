@@ -82,7 +82,7 @@ This step leverages the growth formula breakdown of each perspective to brainsto
 
 
 ### 4. Prototype and review
-<img width="680" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/466f9474-aa0d-4702-9b74-14e48d48af59">
+This step focuses on designing the dashboard layout and continuously reviewing and iterating it to ensure it aligns with stakeholders’ needs and clearly answers business questions.
 
 ## 3. Data dictionary
 There are 3 data tables: 
